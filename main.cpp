@@ -23,7 +23,7 @@ Size s = Size(720, 480);//Size(1440,960);
 
 int main(){
 
-	string str_head = "上汽数据\\4\\";
+	string str_head = "数据\\4\\";
 	string str[10] = { "11", "22", "00", "1", "2", "8" };
 	
 	Mat identity = Mat::eye(3, 3, CV_64F);
@@ -98,7 +98,7 @@ int main(){
 	cout << "K:" << K << endl;
 	cout << "D:" << D << endl;
 	cout << "calibrate_error:  "<< calibrate_error << endl;
-	/*上汽数据
+	/*数据
 	K = Matx33d(1.6833736075323174e+002, 0, 3.6025506560344564e+002, 0,
     1.4979904278996142e+002, 2.4054151911694728e+002, 0, 0, 1);
 		
