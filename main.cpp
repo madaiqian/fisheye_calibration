@@ -93,6 +93,7 @@ int main(){
 	//标定求出内参矩阵K和畸变系数矩阵D
 	double calibrate_error=fisheye::calibrate(obj_points, img_points, Size(img_width, img_height), K, D, noArray(), noArray(), flag, TermCriteria(3, 20, 1e-6));
 	getOptimalNewCameraMatrix(K, D, s, 1.0, s);
+	//调整参数会得到不同的K2,产生不同的矫正效果
 	fisheye::estimateNewCameraMatrixForUndistortRectify(K, D, Size(720, 480), cv::noArray(), K2, 0.8, s ,1.0);
 	cout << endl;
 	cout << "K:" << K << endl;
