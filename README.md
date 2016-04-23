@@ -8,10 +8,10 @@ What's more, in the windows version, the transform command is <br>
      
 
 ![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/1.jpg)  
-![](https://github.com/madaiqian/fisheye_calibration/master/image/2.jpg)  
-![](https://github.com/madaiqian/fisheye_calibration/master/image/3.jpg) 
+![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/2.jpg)  
+![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/3.jpg) 
 
-![](https://github.com/madaiqian/fisheye_calibration/edit/master/image/11.jpg)  
-![](https://github.com/madaiqian/fisheye_calibration/edit/master/image/22.jpg)  
-![](https://github.com/madaiqian/fisheye_calibration/edit/master/image/33.jpg)  
+![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/11.jpg) 
+![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/22.jpg) 
+![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/33.jpg) 
  
