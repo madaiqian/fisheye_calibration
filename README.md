@@ -1,5 +1,5 @@
 # fisheye_calibration
-`It's a tool which can calibrate fisheye camera based on opencv3.0 and VS2013`.
+`It's a tool which can calibrate fisheye len/camera based on opencv3.0 and VS2013`.
 
 Generally, the camera output image is of YUV. <br> 
 If u wanna transform into jpg, you can download ffmpeg. <br> 
