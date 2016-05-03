@@ -7,8 +7,6 @@ What's more, in the windows version, the transform command is <br>
         `ffmpeg.exe -s 736x480 -pix_fmt nv12 -i x.yuv x.jpg `<br> 
      
 
-![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/1.jpg)  
-![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/2.jpg)  
 ![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/3.jpg) 
 
 ![](https://github.com/madaiqian/fisheye_calibration/blob/master/image/33.jpg) 
